@@ -1,4 +1,4 @@
-# 👋 Davi Araújo
+# 👋 Olá! Eu Sou Davi Araújo
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 1º semestre  
 💻 Focado em aprender **C** e **MySQL**  
