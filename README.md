@@ -16,4 +16,4 @@
 
 ### 📫 Como me encontrar
 📧 **daviac2064@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/SEULINKEDIN/)
+💼 [LinkedIn](in/davi-araújo-)
