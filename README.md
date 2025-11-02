@@ -1,1 +1,19 @@
-# Davi-Araujo
+# 👋 Olá! Eu sou o Davi Araújo
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 1º semestre  
+💻 Focado em aprender **C** e **MySQL**  
+🚀 Apaixonado por tecnologia e em constante evolução
+
+---
+
+### 💡 Sobre mim
+- 🌱 Atualmente estudando lógica de programação, estruturas de dados e banco de dados  
+- 💼 Buscando minha primeira oportunidade como **desenvolvedor júnior ou estagiário**  
+- 📚 Interessado em desenvolvimento de software e novas tecnologias  
+- 🤝 Aberto a colaborar em projetos simples para aprender e trocar experiências  
+
+---
+
+### 📫 Como me encontrar
+📧 **daviac2064@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/SEULINKEDIN/)
